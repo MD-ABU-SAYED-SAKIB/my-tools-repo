@@ -2,4 +2,5 @@
 2.pen
 3.book
 4.bag
-
+5.calculator
+6.pencil
